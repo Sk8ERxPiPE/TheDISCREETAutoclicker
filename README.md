@@ -5,8 +5,11 @@ The DISCREET Autoclicker is an autoclicker with many convenient features, such a
 --------------------------------Install Instructions-------------------------------
 
 1.) On the main page here (https://github.com/Sk8ERxPiPE/TheDISCREETAutoclicker), click "Code" then "Download ZIP".
+
 2.) Extract the ZIP file.
+
 3.) In the TDAxxxxx folder (i.e. TDABeta1 or whatever it may be based on the version), run "setup.exe".
+
 4.) Click "Install". The application launches automatically. It should create a desktop shortcut labeled "The Discreet Autoclicker".
 
 Please note: the autoclicker is still in Beta. If you need to report a bug, use the "Report a Bug" link on screen. Thanks for downloading!
