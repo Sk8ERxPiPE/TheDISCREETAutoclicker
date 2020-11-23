@@ -4,7 +4,7 @@ The DISCREET Autoclicker is an autoclicker with many convenient features, such a
 
 --------------------------------Install Instructions-------------------------------
 
-1.) On the main page here (https://github.com/Sk8ERxPiPE/TheDISCREETAutoclicker), click "Code" then "Download ZIP".
+1.) On the main page here (https://github.com/Sk8ERxPiPE/TheDISCREETAutoclicker), click the green "Code" button then "Download ZIP".
 
 2.) Extract the ZIP file.
 
