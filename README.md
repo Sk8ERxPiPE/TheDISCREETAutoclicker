@@ -8,7 +8,7 @@ The DISCREET Autoclicker is an autoclicker with many convenient features, such a
 
 2.) Extract the ZIP file.
 
-3.) In the TDAxxxxx folder (i.e. TDABeta1 or whatever it may be based on the version), run "setup.exe".
+3.) In the "TheDISCREETAutoclicker-main" -> "TheDISCREETAutoclicker-main" -> "TDAxxxxx" folder (i.e. TDABeta1 or whatever it may be based on the version), run "setup.exe".
 
 4.) Click "Install". The application launches automatically. It should create a desktop shortcut labeled "The Discreet Autoclicker".
 
