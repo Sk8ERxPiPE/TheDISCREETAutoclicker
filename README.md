@@ -1,6 +1,6 @@
 # TheDISCREETAutoclicker
 
-The DISCREET Autoclicker is an autoclicker with many convenient features, such as being able to control the clicking with *mouse* buttons, and being able to change its appearance on the taskbar, to disguise it as a different application! To use the autoclicker to the best of its ability, please read the entire "HELP FILE" below or in the "help" menu after install. For a TLDR, read the Changelog below.
+The DISCREET Autoclicker is an autoclicker with many convenient features, such as being able to control the clicking with *mouse* buttons, and being able to change its appearance on the taskbar, to disguise it as a different application! To use the autoclicker to the best of its ability, please read the "HELP FILE" below or in the "help" menu after install. For a TLDR, read the Changelog below.
 
 --------------------------------Install Instructions-------------------------------
 
